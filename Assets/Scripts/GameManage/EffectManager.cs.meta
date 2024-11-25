@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 6af11cc2d50b0ea4bb3ff6e339b935c9
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - CoinAsset: {fileID: 11400000, guid: 687367e7f5159054ab8e359c8d3dc041, type: 2}
+  - RecoveryAsset: {fileID: 11400000, guid: 03266d5825b0dcb428b27797a7e307ab, type: 2}
+  - StageClearAsset: {fileID: 11400000, guid: 4fa90431ffa641344843c778e70d6174, type: 2}
+  - CompleteClearAsset: {fileID: 11400000, guid: 50b2f3864790c334a85c0067df1f65b4,
+      type: 2}
+  - EnemyHitAsset: {fileID: 11400000, guid: 6483a8e7081dcd84fa539172e9f1ff98, type: 2}
+  - BruteDiedAsset: {fileID: 11400000, guid: 6ec8b3df183e96046a367bf8920bf08b, type: 2}
+  - SlimeDiedAsset: {fileID: 11400000, guid: 00f5b136ed70d7a45940adf3ad7942bd, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: f5816003b50b582439cc126c1a25b57a
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - GaugeUI: {instanceID: 0}
+  - PauseUI: {instanceID: 0}
+  - GameOverUI: {instanceID: 0}
+  - SystemManagerObj: {instanceID: 0}
+  - MyAnime: {instanceID: 0}
+  - RecoveryEft: {fileID: 11400000, guid: ede50c054f3d8114690ced38f447177e, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
