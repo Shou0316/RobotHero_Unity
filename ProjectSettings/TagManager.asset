@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Field
+  - Enemy
+  - Bullet
+  - Coin
+  - Button
+  - Key
+  - Water
+  - MoveField
+  - Castle
+  - Cannon
+  - CannonBall
+  - BoardMessage
+  - FadeUI
+  - Recovery
+  - SystemButton
+  - Stairs
+  - Sound
+  - GameManager
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Cannon
+  - Floor
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
